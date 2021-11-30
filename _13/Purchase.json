@@ -1,0 +1,80 @@
+[
+
+  {
+    "name":"womenLink",
+    "type":"XPath",
+    "value":"//ul[contains(@class,'sf-arrows')]/li"
+  },
+  {
+    "name":"blousesLink",
+    "type":"LinkText",
+    "value":"Blouses"
+  },
+  {
+    "name":"product",
+    "type":"XPath",
+    "value":"//div[@class='product-image-container']"
+  },
+  {
+    "name":"addToChart",
+    "type":"XPath",
+    "value":"//span[text()='Add to cart']"
+  },
+  {
+    "name":"proceedToCheckOut",
+    "type":"XPath",
+    "value":"//a[@class='btn btn-default button button-medium']/span"
+  },
+  {
+    "name":"summaryCheckOut",
+    "type":"XPath",
+    "value":"//p[@class='cart_navigation clearfix']/a/span"
+  },
+  {
+    "name":"addressCheckOut",
+    "type":"XPath",
+    "value":"//button[@name='processAddress']"
+  },
+  {
+    "name":"agree",
+    "type":"XPath",
+    "value":"//label[@for='cgv']"
+  },
+  {
+    "name":"carrierCheckOut",
+    "type":"XPath",
+    "value":"//button[@name='processCarrier']"
+  },
+  {
+    "name":"payByWire",
+    "type":"XPath",
+    "value":"//p[@class='payment_module']/a/span"
+  },
+  {
+    "name":"confirmOrder",
+    "type":"XPath",
+    "value":"//p[@id='cart_navigation']/button[@type='submit']/span"
+  },
+  {
+    "name":"backToOrders",
+    "type":"XPath",
+    "value":"//p[@class='cart_navigation exclusive']/a/i"
+  },
+  {
+    "name":"orderRefHeader",
+    "type":"XPath",
+    "value":"//th[@class='first_item footable-first-column']"
+  },
+  {
+    "name":"orderRef",
+    "type":"XPath",
+    "value":"//tr[@class='first_item ']/td[1]"
+  },
+  {
+    "name":"price",
+    "type":"XPath",
+    "value":"//td[@class='history_price']/span"
+  }
+
+
+]

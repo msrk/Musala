@@ -1,0 +1,108 @@
+[
+
+  {
+    "name":"contactUs",
+    "type":"XPath",
+    "value":"//span[text()='Contact us']"
+  },
+  {
+    "name":"name",
+    "type":"Id",
+    "value":"cf-1"
+  },
+  {
+    "name":"email",
+    "type":"Id",
+    "value":"cf-2"
+  },
+  {
+    "name":"subject",
+    "type":"Id",
+    "value":"cf-4"
+  },
+  {
+    "name":"message",
+    "type":"Id",
+    "value":"cf-5"
+  },
+  {
+    "name":"Submit",
+    "type":"XPath",
+    "value":"//input[@value='Send']"
+  },
+  {
+    "name":"company",
+    "type":"XPath",
+    "value":"//div[@id='navbar']//a[contains(@href,'company')]"
+  },
+  {
+    "name":"leadership",
+    "type":"XPath",
+    "value":"//h2[text()='Leadership']"
+  },
+  {
+    "name":"facebook",
+    "type":"XPath",
+    "value":"//span[@class='musala musala-icon-facebook']"
+  },
+  {
+    "name": "profile",
+    "type": "XPath",
+    "value": "//a[@aria-label='Profile picture']//img"
+  },
+  {
+    "name": "careers",
+    "type": "XPath",
+    "value": "//div[@id='navbar']//a[contains(@href,'careers')]"
+  },
+  {
+    "name": "open",
+    "type": "XPath",
+    "value": "//span[text()='Check our open positions']"
+  },
+  {
+    "name": "location",
+    "type": "Id",
+    "value": "get_location"
+  },
+  {
+    "name": "qa",
+    "type": "XPath",
+    "value": "//img[@alt='Experienced Automation QA Engineer']//ancestor::div[@class='card']"
+  },
+  {
+    "name": "gd",
+    "type": "XPath",
+    "value": "//h2[text()='General description']"
+  },
+  {
+    "name": "req",
+    "type": "XPath",
+    "value": "//h2[text()='Requirements']"
+  },
+  {
+    "name": "res",
+    "type": "XPath",
+    "value": "//h2[text()='Responsibilities']"
+  },
+  {
+    "name": "offer",
+    "type": "XPath",
+    "value": "//h2[text()='What we offer']"
+  },
+  {
+    "name": "app",
+    "type": "XPath",
+    "value": "//input[contains(@class,'btn-apply')]"
+  },
+  {
+    "name": "mobile",
+    "type": "Id",
+    "value": "cf-2"
+  },
+  {
+    "name": "cv",
+    "type": "Id",
+    "value": "uploadtextfield"
+  }
+]

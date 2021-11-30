@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="494f0755-d55e-4d90-ada0-724f0db52ede" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tRt4xS6fLeB36xl2bD4eyiOfzL" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\automation\_13" />
+      <recent name="C:\automation\_13\used_resources" />
+      <recent name="C:\automation\_13\src\main\resources\testdata" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.LogINTest.registerAUser">
+    <configuration name="ApplyTest.job" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.dell.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.dell.com" />
+      <option name="MAIN_CLASS_NAME" value="test.dell.com.ApplyTest" />
+      <option name="METHOD_NAME" value="job" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyTest.company (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.dell.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.dell.com" />
+      <option name="MAIN_CLASS_NAME" value="test.dell.com.CompanyTest" />
+      <option name="METHOD_NAME" value="company" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyTest.company (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.dell.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.dell.com" />
+      <option name="MAIN_CLASS_NAME" value="test.dell.com.CompanyTest" />
+      <option name="METHOD_NAME" value="company" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyTest.company" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.dell.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.dell.com" />
+      <option name="MAIN_CLASS_NAME" value="test.dell.com.CompanyTest" />
+      <option name="METHOD_NAME" value="company" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogINTest.registerAUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.dell.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.dell.com" />
+      <option name="MAIN_CLASS_NAME" value="test.dell.com.LogINTest" />
+      <option name="METHOD_NAME" value="registerAUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogINTest.registerAUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.atos.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.atos.com" />
+      <option name="MAIN_CLASS_NAME" value="test.atos.com.LogINTest" />
+      <option name="METHOD_NAME" value="registerAUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogINTest.registerAUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.atos.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.atos.com" />
+      <option name="MAIN_CLASS_NAME" value="test.atos.com.LogINTest" />
+      <option name="METHOD_NAME" value="registerAUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogINTest.registerAUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.atos.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.atos.com" />
+      <option name="MAIN_CLASS_NAME" value="test.atos.com.LogINTest" />
+      <option name="METHOD_NAME" value="registerAUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LogINTest.registerAUser" />
+        <item itemvalue="TestNG.ApplyTest.job" />
+        <item itemvalue="TestNG.CompanyTest.company (2)" />
+        <item itemvalue="TestNG.CompanyTest.company (1)" />
+        <item itemvalue="TestNG.CompanyTest.company" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="494f0755-d55e-4d90-ada0-724f0db52ede" name="Default Changelist" comment="" />
+      <created>1622743541679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622743541679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/model/dell/com/Register.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/model/dell/com/Register.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/model/dell/com/Register.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/model/dell/com/Purchase.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/model/dell/com/Purchase.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/command/dell/com/ClickCommand.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/model/dell/com/Purchase.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/model/dell/com/Register.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/model/dell/com/Register.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/model/dell/com/Register.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/model/dell/com/Register.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
